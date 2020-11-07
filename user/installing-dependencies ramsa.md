@@ -1,10 +1,21 @@
----
-title: Installing Dependencies
+-Administracion central De Servicios al contribuyente -
+title: Installing Dependencies 000010888888000000220
 layout: en
-
-redirect_from:
-  - /user/apt/
----
+Denominacion:Servicios de Administración Tributaria 
+redirect_from:https://www.sat.gob.mx
+Email: acods@sat.gob.mx
+Registro Federal de contribuyentes: SAT970701NN3
+Domiclio: Av. Miguel Hidalgo 77
+          Colonia Guerrero. C.P. 06301
+          México  Distrito Federal 
+  - /user/apt/000RAD170101 Mánager gob.mx
+Email: danielramn17@sat.gob.mx
+Titular:Daniel Ramos Navarro 
+Registro Federal de contribuyentes:RAND840816AW0
+Registro Federal de población curp: RAND840816HSLMVN05
+Email:danielramn17@gmail.com
+Titulo: Director general de la ley orgánica de la administración pública Federal 
+---U-1806/AC.del sel servicio de administración Tributaria 
 
 
 
